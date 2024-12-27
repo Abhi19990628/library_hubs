@@ -95,7 +95,6 @@ Ensure all endpoints are tested for various scenarios, including valid and inval
 ## Development Guidelines
 ```bash
 Follow Elixir and Phoenix conventions for code structure.
-
 Write unit and integration tests for all new features.
 
 Ensure proper input validation and error handling for every endpoint.
