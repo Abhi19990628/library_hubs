@@ -7,7 +7,7 @@ This project is a comprehensive Library Management API built using the Phoenix F
 applicaiton
 # Features
 
-Book Management: CRUD operations for books.s
+Book Management: CRUD operations for books.
 
 Borrower Management: CRUD operations for library borrowers.
 
