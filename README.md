@@ -1,8 +1,6 @@
 # Library Management API
 
 
-
-
 This project is a comprehensive Library Management API built using the Phoenix Framework and Elixir. The API provides endpoints for managing books, borrowers, and their borrowing histories. It supports CRUD operations, borrowing/returning books, input validation, error handling, and testing for all endpoints.
 
 # Features
