@@ -8,6 +8,8 @@ defmodule LibraryHubWeb.Router do
   scope "/api", LibraryHubWeb do
     pipe_through :api
 
+
+    # book apis
     resources "/books", BooksController, except: [:new, :edit]
     resources "/borrowers", BorrowerController, except: [:new, :edit]
     resources "/borrower_histories", BorrowerHistoryController, except: [:new, :edit]
